@@ -6,9 +6,13 @@ public class test {
         System.out.println("xixixi");
         System.out.println("git3333");
         System.out.println("hot-fix");
+        System.out.println("hot-fix1");
         System.out.println("master lalala");
         System.out.println("hot-fixlalala");
         System.out.println("hot-fixlalala");
+        System.out.println("hot-fix2");
+        System.out.println("hot-fix3");
+        System.out.println("hot-fix4");
         System.out.println("hot-fixlalala");
     }
 }
